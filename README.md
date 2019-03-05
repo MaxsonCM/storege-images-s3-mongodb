@@ -7,12 +7,12 @@
 * [Nodejs](https://nodejs.org/en/)
 * [MongoDB](https://www.mongodb.com/download-center/community)
 * [Git (to copy the project)](https://git-scm.com/)
-* [copy of the project](https://github.com/MaxsonCM/)
+* [copy of the project](https://github.com/MaxsonCM/storege-images-s3-mongodb)
 
 With Git installed run the code below in the terminal
 
 ```bash
-git clone https://github.com/MaxsonCM/
+git clone https://github.com/MaxsonCM/storege-images-s3-mongodb.git
 ```
 **After copying the project and installation of Node Js from the terminal `into the project folder` and run the following command:**
 
